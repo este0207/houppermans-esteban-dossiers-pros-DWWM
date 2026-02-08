@@ -25,7 +25,7 @@ Ce projet est une application de boutique en ligne développée dans le cadre de
 ## Installation et Utilisation
 
 1. Cloner le dépôt
-   git clone https://github.com/votre-compte/houppermans-esteban-dossiers-pros-DWWM.git
+   git clone https://github.com/este0207/houppermans-esteban-dossiers-pros-DWWM.git
 
 2. Installer les dépendances
    npm install
